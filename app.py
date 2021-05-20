@@ -7,3 +7,4 @@ response = requests.get(request_url)
 data = response.json()
 
 json.dump(data, open('data/dump_{}.csv'.format(date.today().strftime('%Y%m%d'), 'w'))
+          
