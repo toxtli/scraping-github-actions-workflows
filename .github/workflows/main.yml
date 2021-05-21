@@ -2,7 +2,7 @@ name: scraping-github-actions-workflows
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # runs every 10 minutes
+    - cron: '*/60 * * * *' # runs every 10 minutes
 
 jobs:
   build:
