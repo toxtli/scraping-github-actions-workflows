@@ -1,0 +1,1 @@
+{"args": {}, "headers": {"Accept": "*/*", "Accept-Encoding": "gzip, deflate", "Host": "httpbin.org", "User-Agent": "python-requests/2.28.1", "X-Amzn-Trace-Id": "Root=1-63082b42-13cb30a92f964e495091d401"}, "origin": "20.121.210.252", "url": "https://httpbin.org/get"}
